@@ -1,7 +1,5 @@
 
-School supplies:
-pen
-paper
-glue
-markers
-inlk
+Groceries
+Bread
+Butter
+Milk
