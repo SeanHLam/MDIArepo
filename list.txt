@@ -5,3 +5,10 @@ Butter
 Milk
 knife
 pie
+
+School supplies:
+pen
+paper
+glue
+markers
+inlk
