@@ -1,7 +1,7 @@
-Groceries
 
+Groceries
 Bread
 Butter
 Milk
-pie
 knife
+pie
